@@ -3,7 +3,7 @@ Atlanta GA 30312
 cvollrath97@gmail.com  
 +1 470 223 9444
 
-An engineer at heart, but a developer in practice. I like to prioritize practicality over perfection while always thinking of ways to improve my development strategies using the latest technology, design principals, and smarter people than me.
+An engineer at heart, but a developer in practice. I like to prioritize practicality over perfection while always thinking of ways to improve my development strategies using the latest technology, design principles, and smarter people than me.
 [https://github.com/CodyVollrath](https://github.com/CodyVollrath)
 ---
 
@@ -13,33 +13,33 @@ An engineer at heart, but a developer in practice. I like to prioritize practica
 121G Consulting - Carrollton, GA  
 *June 2022 to Present*
 
-- Developed a Monday.com help desk ticketing intergration using their v2 GraphQL API into a legacy tech stack (JQuery, Node, HandleBars, MYSQL, ECR).
-- Optomize existing stored procedures and queries to reduce computational expenses on AWS.
+- Developed a Monday.com help desk ticketing integration using their v2 GraphQL API into a legacy tech stack (JQuery, Node, HandleBars, MYSQL, ECR).
+- Optimize existing stored procedures and queries to reduce computational expenses on AWS.
 - Managed RDS, EC2, ECS, S3, and Lambda services for users and applications.
-- Developed an end-to-end intergration with external health care providers with an in-house middleware built in C#.
+- Developed an end-to-end integration with external healthcare providers with an in-house middleware built in C#.
 - Developed an IVR system using Twilio.js SDK.
 - Developed numerous automation scripts in Python 3.10+ to validate healthcare data.
 - Derived a set of coding standards with a team of 4.
 - Managed server operations using Amazon's Fedora Linux OS.
-- Managed docker containers with Amazons ECR.
+- Managed docker containers with Amazon's ECR.
 
 **Full-Stack Software Engineer**
 SEYA Software - Macon, GA  
 *January 2021 to June 2022*
 - Developed one application called Auction101
-- Developed a greenfield full-stack web application using (React w/ TypeScript, .NET 5.0+, Flask, MongoDB, Docker)
+- Developed a greenfield full-stack web application using (React w/ TypeScript, .NET 5.0+, Flask, MongoDB, and Docker)
 - Implemented a REST API in .NET 5 with C# for managing auctions, dealers, representatives, and vehicle purchase orders.
-- Used SignalR facilitate communication in real-time with the client and server.
-- Created microservices using flask, and React native.
+- Used SignalR to facilitate communication in real-time with the client and server.
+- Created microservices using Flask, and React native.
 - Custom VIN decoder and ability to scan VIN barcodes for easy vehicle check-in.
-- Worked with a senior web developer to build a custom video streaming service into our techstack.
+- Worked with a senior web developer to build a custom video streaming service into our tech stack.
 
 **RPA Developer**
 Southwire - Carrollton, GA  
 *August 2020 to January 2021*
-- Built an automated freight managment tool using UIPath and .NET 3 w/ C#.
+- Built an automated freight management tool using UIPath and .NET 3 w/ C#.
 - Developed and deployed several UI automation tools for various departments such as mailing, finance, EDI, and IT.
-- Lead a team of interns during the development of SAP automations for accounts payable/receivable.
+- Lead a team of interns during the development of SAP automation for accounts payable/receivable.
 
 **Electronic Data Interchange Specialist Intern**
 Southwire - Carrollton, GA  
