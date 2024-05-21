@@ -5,6 +5,7 @@ cvollrath97@gmail.com
 
 An engineer at heart, but a developer in practice. I like to prioritize practicality over perfection while always thinking of ways to improve my development strategies using the latest technology, design principles, and smarter people than me.
 [https://github.com/CodyVollrath](https://github.com/CodyVollrath)
+
 ---
 
 **Work Experience**
@@ -60,6 +61,7 @@ University of West Georgia - Carrollton, GA, US
 **Assoc in Computer Networking**
 West Georgia Technical College - Waco, GA, US
 *August 2016 to May 2019*
+
 ---
 
 **Skills**
