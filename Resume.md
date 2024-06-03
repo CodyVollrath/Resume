@@ -3,7 +3,9 @@ Atlanta GA 30312
 cvollrath97@gmail.com  
 +1 470 223 9444
 
-An engineer at heart, but a developer in practice. I like to prioritize practicality over perfection while always thinking of ways to improve my development strategies using the latest technology, design principles, and smarter people than me.
+As a dedicated software developer with over 6 years of experience in full-stack development, I strive to make a meaningful impact on the projects I develop. 
+I am passionate about creating efficient, scalable, robust, and user-friendly software solutions that drive reputation, and growth.
+
 [https://github.com/CodyVollrath](https://github.com/CodyVollrath)
 
 ---
